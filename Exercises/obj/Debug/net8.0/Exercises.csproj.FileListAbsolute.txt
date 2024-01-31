@@ -1,0 +1,15 @@
+f:\Repositorio\Personal\CSharp\CSharp\Exercises\obj\Debug\net8.0\Exercises.GeneratedMSBuildEditorConfig.editorconfig
+f:\Repositorio\Personal\CSharp\CSharp\Exercises\obj\Debug\net8.0\Exercises.AssemblyInfoInputs.cache
+f:\Repositorio\Personal\CSharp\CSharp\Exercises\obj\Debug\net8.0\Exercises.AssemblyInfo.cs
+f:\Repositorio\Personal\CSharp\CSharp\Exercises\obj\Debug\net8.0\Exercises.csproj.CoreCompileInputs.cache
+f:\Repositorio\Personal\CSharp\CSharp\Exercises\obj\Debug\net8.0\Exercises.sourcelink.json
+f:\Repositorio\Personal\CSharp\CSharp\Exercises\bin\Debug\net8.0\Exercises.exe
+f:\Repositorio\Personal\CSharp\CSharp\Exercises\bin\Debug\net8.0\Exercises.deps.json
+f:\Repositorio\Personal\CSharp\CSharp\Exercises\bin\Debug\net8.0\Exercises.runtimeconfig.json
+f:\Repositorio\Personal\CSharp\CSharp\Exercises\bin\Debug\net8.0\Exercises.dll
+f:\Repositorio\Personal\CSharp\CSharp\Exercises\bin\Debug\net8.0\Exercises.pdb
+f:\Repositorio\Personal\CSharp\CSharp\Exercises\obj\Debug\net8.0\Exercises.dll
+f:\Repositorio\Personal\CSharp\CSharp\Exercises\obj\Debug\net8.0\refint\Exercises.dll
+f:\Repositorio\Personal\CSharp\CSharp\Exercises\obj\Debug\net8.0\Exercises.pdb
+f:\Repositorio\Personal\CSharp\CSharp\Exercises\obj\Debug\net8.0\Exercises.genruntimeconfig.cache
+f:\Repositorio\Personal\CSharp\CSharp\Exercises\obj\Debug\net8.0\ref\Exercises.dll
